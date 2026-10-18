@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="laider-z">
+  <defs>
+    <radialGradient id="g" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0A0A0B" stop-opacity="0"/>
+      <stop offset="0.55" stop-color="#0A0A0B" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0A0A0B" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="20"/></clipPath>
+    <clipPath id="c0"><rect x="96" y="184" width="0" height="40">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.005;0.009;0.014;0.019;0.023;0.028;0.033;0.037;0.042;0.047;0.051;0.056;0.061;0.065;0.07;0.075;0.079;0.084;0.089;0.093;0.098;0.103;0.107;0.112;0.117;0.277;0.281;0.285;0.289;0.293;0.298;0.302;0.306;0.31;1" values="0;16.4;30.8;45.2;59.6;74;88.4;102.8;117.2;131.6;146;160.4;174.8;189.2;203.6;218;232.4;246.8;261.2;275.6;290;304.4;318.8;333.2;347.6;362;362;315;270;225;180;135;90;45;0;0"/></rect></clipPath>
+    <clipPath id="c1"><rect x="96" y="184" width="0" height="40">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.333;0.337;0.341;0.344;0.348;0.352;0.356;0.359;0.363;0.367;0.37;0.374;0.378;0.381;0.385;0.389;0.393;0.396;0.4;0.404;0.407;0.411;0.415;0.419;0.422;0.426;0.43;0.433;0.437;0.441;0.444;0.448;0.452;0.456;0.459;0.463;0.467;0.627;0.631;0.635;0.639;0.643;0.648;0.652;0.656;0.66;1" values="0;0;16.4;30.8;45.2;59.6;74;88.4;102.8;117.2;131.6;146;160.4;174.8;189.2;203.6;218;232.4;246.8;261.2;275.6;290;304.4;318.8;333.2;347.6;362;376.4;390.8;405.2;419.6;434;448.4;462.8;477.2;491.6;506;520.4;520.4;453.6;388.8;324;259.2;194.4;129.6;64.8;0;0"/></rect></clipPath>
+    <clipPath id="c2"><rect x="96" y="184" width="0" height="40">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.667;0.671;0.675;0.679;0.683;0.687;0.691;0.695;0.699;0.703;0.707;0.711;0.715;0.719;0.723;0.727;0.731;0.735;0.739;0.743;0.747;0.752;0.756;0.76;0.764;0.768;0.772;0.776;0.78;0.784;0.788;0.792;0.796;0.8;0.96;0.964;0.968;0.973;0.977;0.981;0.985;0.989;0.993;1" values="0;0;16.4;30.8;45.2;59.6;74;88.4;102.8;117.2;131.6;146;160.4;174.8;189.2;203.6;218;232.4;246.8;261.2;275.6;290;304.4;318.8;333.2;347.6;362;376.4;390.8;405.2;419.6;434;448.4;462.8;477.2;477.2;415.8;356.4;297;237.6;178.2;118.8;59.4;0;0"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#0A0A0B"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle cx="300" cy="120" r="420" fill="url(#g)">
+      <animateTransform attributeName="transform" type="translate" dur="18s" repeatCount="indefinite"
+        values="0 0; 520 60; 160 -40; 0 0" keyTimes="0;0.4;0.75;1" calcMode="spline"
+        keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+    <rect width="1200" height="300" fill="url(#fade)" opacity="0.35"/>
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" fill="none" stroke="rgba(255,255,255,0.06)"/>
+
+    <g font-family="ui-sans-serif, -apple-system, 'Segoe UI Variable Display', 'Segoe UI', Inter, system-ui, sans-serif">
+      <text x="96" y="156" fill="#F5F5F7" font-size="72" font-weight="700" letter-spacing="-0.5">laider<tspan dx="-4">-z</tspan>
+        <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+      </text>
+    </g>
+    <g font-family="ui-monospace, 'Cascadia Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="24" fill="#8E8E93">
+      <text x="66" y="212" fill="#F5F5F7" opacity="0.5">›</text>
+      <text x="96" y="212" clip-path="url(#c0)" textLength="360" lengthAdjust="spacingAndGlyphs">пишу на Rust и TypeScript</text>
+      <text x="96" y="212" clip-path="url(#c1)" textLength="518.4" lengthAdjust="spacingAndGlyphs">делаю приложения для Windows и macOS</text>
+      <text x="96" y="212" clip-path="url(#c2)" textLength="475.2" lengthAdjust="spacingAndGlyphs">люблю чистый дизайн и приватность</text>
+      <rect x="96" y="191" width="2.5" height="27" fill="#F5F5F7">
+        <animate attributeName="x" dur="15s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.005;0.009;0.014;0.019;0.023;0.028;0.033;0.037;0.042;0.047;0.051;0.056;0.061;0.065;0.07;0.075;0.079;0.084;0.089;0.093;0.098;0.103;0.107;0.112;0.117;0.277;0.281;0.285;0.289;0.293;0.298;0.302;0.306;0.31;0.337;0.341;0.344;0.348;0.352;0.356;0.359;0.363;0.367;0.37;0.374;0.378;0.381;0.385;0.389;0.393;0.396;0.4;0.404;0.407;0.411;0.415;0.419;0.422;0.426;0.43;0.433;0.437;0.441;0.444;0.448;0.452;0.456;0.459;0.463;0.467;0.627;0.631;0.635;0.639;0.643;0.648;0.652;0.656;0.66;0.667;0.671;0.675;0.679;0.683;0.687;0.691;0.695;0.699;0.703;0.707;0.711;0.715;0.719;0.723;0.727;0.731;0.735;0.739;0.743;0.747;0.752;0.756;0.76;0.764;0.768;0.772;0.776;0.78;0.784;0.788;0.792;0.796;0.8;0.96;0.964;0.968;0.973;0.977;0.981;0.985;0.989;0.993;1" values="99;115.4;129.8;144.2;158.6;173;187.4;201.8;216.2;230.6;245;259.4;273.8;288.2;302.6;317;331.4;345.8;360.2;374.6;389;403.4;417.8;432.2;446.6;461;461;414;369;324;279;234;189;144;99;115.4;129.8;144.2;158.6;173;187.4;201.8;216.2;230.6;245;259.4;273.8;288.2;302.6;317;331.4;345.8;360.2;374.6;389;403.4;417.8;432.2;446.6;461;475.4;489.8;504.2;518.6;533;547.4;561.8;576.2;590.6;605;619.4;619.4;552.6;487.8;423;358.2;293.4;228.6;163.8;99;99;115.4;129.8;144.2;158.6;173;187.4;201.8;216.2;230.6;245;259.4;273.8;288.2;302.6;317;331.4;345.8;360.2;374.6;389;403.4;417.8;432.2;446.6;461;475.4;489.8;504.2;518.6;533;547.4;561.8;576.2;576.2;514.8;455.4;396;336.6;277.2;217.8;158.4;99;99"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g transform="translate(944 70)">
+      <rect width="160" height="160" rx="38" fill="#F5F5F7" fill-opacity="0.04" stroke="rgba(255,255,255,0.06)" stroke-width="1.5"/>
+      <rect x="0.75" y="0.75" width="158.5" height="158.5" rx="37.5" fill="none" stroke="#F5F5F7" stroke-opacity="0.55"
+        stroke-width="1.5" stroke-linecap="round" stroke-dasharray="70 530" pathLength="600">
+        <animate attributeName="stroke-dashoffset" values="0;-600" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="80" y="103" text-anchor="middle" fill="#F5F5F7" font-size="66" font-weight="700" letter-spacing="-1"
+        font-family="ui-sans-serif, -apple-system, 'Segoe UI Variable Display', 'Segoe UI', Inter, system-ui, sans-serif">lz</text>
+    </g>
+  </g>
+</svg>
