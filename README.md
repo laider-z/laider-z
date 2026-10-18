@@ -30,9 +30,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laider-z/laider-z/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laider-z/laider-z/output/snake-light.svg">
-  <img alt="Змейка по графику вклада" src="https://raw.githubusercontent.com/laider-z/laider-z/output/snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laider-z/laider-z/output/snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laider-z/laider-z/output/snake-light.svg?v=2">
+  <img alt="Змейка по графику вклада" src="https://raw.githubusercontent.com/laider-z/laider-z/output/snake-dark.svg?v=2" width="100%">
 </picture>
 
 <sub>Шапка, карточка и змейка — свои картинки этого репозитория, обновляются раз в день.</sub>
