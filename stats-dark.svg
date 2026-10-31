@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Активность laider на GitHub">
+  <rect x="0.5" y="0.5" width="1199" height="219" rx="19.5" fill="#0A0A0B" stroke="rgba(255,255,255,0.08)"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI Variable Display', 'Segoe UI', Inter, system-ui, sans-serif">
+    <text x="48" y="48" fill="#8E8E93" font-size="15" letter-spacing="1.5">АКТИВНОСТЬ НА GITHUB</text>
+    <g transform="translate(48 0)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.1s" fill="freeze"/>
+      <text x="0" y="112" fill="#F5F5F7" font-size="52" font-weight="700" letter-spacing="-1">65</text>
+      <text x="0" y="146" fill="#8E8E93" font-size="17">вклад за год</text>
+    </g>
+    <g transform="translate(278 0)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.22s" fill="freeze"/>
+      <text x="0" y="112" fill="#F5F5F7" font-size="52" font-weight="700" letter-spacing="-1">5</text>
+      <text x="0" y="146" fill="#8E8E93" font-size="17">дней подряд сейчас</text>
+    </g>
+    <g transform="translate(508 0)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.33999999999999997s" fill="freeze"/>
+      <text x="0" y="112" fill="#F5F5F7" font-size="52" font-weight="700" letter-spacing="-1">5</text>
+      <text x="0" y="146" fill="#8E8E93" font-size="17">дней — лучшая серия</text>
+    </g>
+    <g transform="translate(738 0)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.45999999999999996s" fill="freeze"/>
+      <text x="0" y="112" fill="#F5F5F7" font-size="52" font-weight="700" letter-spacing="-1">9</text>
+      <text x="0" y="146" fill="#8E8E93" font-size="17">активных дней</text>
+    </g>
+    <text x="978" y="48" fill="#8E8E93" font-size="15" letter-spacing="1.5">ПОЛГОДА</text>
+    <rect x="979.5" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.30s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.30s" fill="freeze"/>
+      </rect>
+    <rect x="986.2" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.32s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.32s" fill="freeze"/>
+      </rect>
+    <rect x="992.9" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.34s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.34s" fill="freeze"/>
+      </rect>
+    <rect x="999.6" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.36s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.36s" fill="freeze"/>
+      </rect>
+    <rect x="1006.3" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.38s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.38s" fill="freeze"/>
+      </rect>
+    <rect x="1013.0" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.40s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.40s" fill="freeze"/>
+      </rect>
+    <rect x="1019.7" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.42s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.42s" fill="freeze"/>
+      </rect>
+    <rect x="1026.3" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.44s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.44s" fill="freeze"/>
+      </rect>
+    <rect x="1033.0" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.46s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.46s" fill="freeze"/>
+      </rect>
+    <rect x="1039.7" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.48s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.48s" fill="freeze"/>
+      </rect>
+    <rect x="1046.4" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.50s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.50s" fill="freeze"/>
+      </rect>
+    <rect x="1053.1" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.52s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.52s" fill="freeze"/>
+      </rect>
+    <rect x="1059.8" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.54s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.54s" fill="freeze"/>
+      </rect>
+    <rect x="1066.5" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.56s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.56s" fill="freeze"/>
+      </rect>
+    <rect x="1073.2" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.58s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.58s" fill="freeze"/>
+      </rect>
+    <rect x="1079.9" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.60s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.60s" fill="freeze"/>
+      </rect>
+    <rect x="1086.6" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.62s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.62s" fill="freeze"/>
+      </rect>
+    <rect x="1093.3" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.64s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.64s" fill="freeze"/>
+      </rect>
+    <rect x="1100.0" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.66s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.66s" fill="freeze"/>
+      </rect>
+    <rect x="1106.7" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.68s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.68s" fill="freeze"/>
+      </rect>
+    <rect x="1113.3" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.70s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.70s" fill="freeze"/>
+      </rect>
+    <rect x="1120.0" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.72s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.72s" fill="freeze"/>
+      </rect>
+    <rect x="1126.7" y="147.0" width="3.7" height="3.0" rx="2" fill="#F5F5F7" fill-opacity="0.15">
+        <animate attributeName="height" values="0;3.0" dur="0.8s" begin="0.74s" fill="freeze"/>
+        <animate attributeName="y" values="150;147.0" dur="0.8s" begin="0.74s" fill="freeze"/>
+      </rect>
+    <rect x="1133.4" y="145.2" width="3.7" height="4.8" rx="2" fill="#F5F5F7" fill-opacity="0.85">
+        <animate attributeName="height" values="0;4.8" dur="0.8s" begin="0.76s" fill="freeze"/>
+        <animate attributeName="y" values="150;145.2" dur="0.8s" begin="0.76s" fill="freeze"/>
+      </rect>
+    <rect x="1140.1" y="94.8" width="3.7" height="55.2" rx="2" fill="#F5F5F7" fill-opacity="0.85">
+        <animate attributeName="height" values="0;55.2" dur="0.8s" begin="0.78s" fill="freeze"/>
+        <animate attributeName="y" values="150;94.8" dur="0.8s" begin="0.78s" fill="freeze"/>
+      </rect>
+    <rect x="1146.8" y="54.0" width="3.7" height="96.0" rx="2" fill="#F5F5F7" fill-opacity="0.85">
+        <animate attributeName="height" values="0;96.0" dur="0.8s" begin="0.80s" fill="freeze"/>
+        <animate attributeName="y" values="150;54.0" dur="0.8s" begin="0.80s" fill="freeze"/>
+      </rect>
+    <text x="1152" y="190" text-anchor="end" fill="#8E8E93" font-size="13" opacity="0.7">обновлено 2026-10-31</text>
+  </g>
+</svg>
